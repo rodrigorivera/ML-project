@@ -1,8 +1,8 @@
 import pandas as pd
 import numpy as np
-from M5_Competition.preprocessing import preprocess
-from M5_Competition.theta_method.ses_theta import sesThetaF
-from M5_Competition.theta_method.general_theta import sThetaF
+from XXXXXXXXXX.preprocessing import preprocess
+from XXXXXXXXXX.theta_method.ses_theta import sesThetaF
+from XXXXXXXXXX.theta_method.general_theta import sThetaF
 
 
 FORECAST_LENGTH = 28
