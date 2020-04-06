@@ -1,7 +1,7 @@
 # ML-project
 
 
-This repo is for Skoltech ML course project which attempts to find the method producing the most accurate forecast for M5 Forecasting Competition.  Standard statistical and DeepLearning methods were developed to tackle theproblem. The method of the most interest is GNN-RNN that was devoted to take into account hierar-chical structure of the data.
+This repo is for Skoltech ML course project which attempts to find the method producing the most accurate forecast for M5 Forecasting Competition.  Standard statistical and DeepLearning methods were developed to tackle this problem. The method of the most interest is GNN-RNN that was devoted to take into account hierar-chical structure of the data.
 
 - Exploratory_analysis.ipynb: Data hierarchical structure analysis and justification of GNN architecture choice
 
