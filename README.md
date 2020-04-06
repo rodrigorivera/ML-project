@@ -15,6 +15,12 @@ This repo is for Skoltech ML course project which attempts to find the method pr
 
 - very-fst-model-upd.ipynb: LightGBM approach and feature generation based on kaggle kernel
 
+- preprocessing_lstm.py: Leading zeros deletion
+
+- lstm.ipynb: LSTM implementation and training
+
+- training_GCN.ipynb: Graph Convolution neural network implementation (in progress)
+
 
 
 
